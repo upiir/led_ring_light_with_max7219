@@ -29,6 +29,15 @@ Other videos using 8x8 LED Matrix display and Multiplexing (MAX7219)
 ![THUMB_led_ring_light_max7219](https://github.com/upiir/led_ring_light_with_max7219/assets/117754156/66c7708b-7ec0-464e-8043-a2afb5495284)
 
 
+Small Animations:
+
+![led_ring_light_max7219_top](https://github.com/upiir/led_ring_light_with_max7219/assets/117754156/6747c72e-9df4-40ea-bd60-a9cd73f41eee)
+
+![led_ring_light_max7219_side](https://github.com/upiir/led_ring_light_with_max7219/assets/117754156/706d3b96-67e8-412a-aa79-6923d9c7a190)
+
+
+
+
 Screenshots from the video:
 
 ![CAMTASIA_led_ring_potentiometer_max7219 (Time 0_00_00;09)](https://github.com/upiir/led_ring_light_with_max7219/assets/117754156/b9bf6988-0acc-421d-bdd4-3a94aea17861)
