@@ -10,6 +10,7 @@ Using the LED Ring Light together with the Multiplexing Chip MAX7219 (module), P
 Links from the video:
 - LED ring light: https://s.click.aliexpress.com/e/_DmvHFpp
 - MAX7219 module: https://s.click.aliexpress.com/e/_DkX1kNF
+- 10K Potentiometer: https://s.click.aliexpress.com/e/_Dk1WFoV
 - Round hole pin header: https://s.click.aliexpress.com/e/_DkUOru9
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
 - Arduino prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
